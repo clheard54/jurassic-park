@@ -9,7 +9,7 @@ gem "pry"
 gem "faker"
 gem "sqlite3"
 gem "require_all"
-gem "activerecord", "~>5.2.3"
+gem "activerecord", "~>6.1.7"
 gem "sinatra-activerecord"
 
 # ActiveRecord::Base.logger = Logger.new(STDOUT)
